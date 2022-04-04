@@ -28,7 +28,7 @@ function draw() {
 
 draw()
 
-// 32-59: We make the shooter sprite move by removing and adding the .shooter class everytime the event is triggered
+// 36-64: We make the shooter sprite move by removing and adding the .shooter class everytime the event is triggered
     // Every time the event is triggered the currentShooterIndex value is refreshed based on the event key pressed...
         // ...and on the switch configuration 
     // The sprite stays on the grid thanks to the conditionals (41,46,51,56) that check whether the indexes are...
