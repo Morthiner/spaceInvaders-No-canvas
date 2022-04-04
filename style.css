@@ -9,9 +9,14 @@
 .grid div {
     width: 20px;
     height: 20px;
+    font-size: 10px;
 }
 
 .invaders {
     background: purple;
     border-radius: 10px;
+}
+
+.shooter {
+    background: red;
 }
